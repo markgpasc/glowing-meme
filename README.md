@@ -1,2 +1,2 @@
 # glowing-meme
-# 1) trees
+# 1) mcm dp bottom up for matrix chain multiplication optimization problem 
