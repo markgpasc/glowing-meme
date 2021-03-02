@@ -3,6 +3,7 @@
 int main()
 {
     int n = 5;
+    // matrix dimensions: d0, d1, d2, ... dn
     int p[] = {5, 4, 6, 2, 7};
     int m[5][5] = {0};    
     int s[5][5] = {0};
